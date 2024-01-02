@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tiketux Farouq</string>
+    <string name="search_hint">Cari Kota</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_report">Report</string>
+    <string name="title_armada">Armada</string>
+    <string name="change_password">Ubah Kata Sandi</string>
+    <string name="change_account">Ganti Akun</string>
+    <string name="rute">Rute</string>
+    <string name="back">Kembali</string>
+    <string name="tab_tiket">Tiket</string>
+    <string name="tab_paket">Paket</string>
+    <string name="tab_manifest">Manifest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_up">Pick Up</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button_big">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="text_title">
+        <item name="fontFamily">@font/nunito_semibold</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="text_title_item">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="text_hint">
+        <item name="fontFamily">@font/nunito_light</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+    <style name="text_desc_mini_bold">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_title_halaman">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="text_desc">
+        <item name="fontFamily">@font/roboto_mono</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="text_sub_title">
+        <item name="fontFamily">@font/nunito_semibold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="text_fill_title">
+        <item name="fontFamily">@font/nunito_regular</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>
